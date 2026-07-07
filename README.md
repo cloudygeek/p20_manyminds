@@ -1,7 +1,7 @@
 # P20 Artifact — Many Minds, One Verdict
 
-Anonymised data and analysis code reproducing every table, figure, and headline
-number in *"Many Minds, One Verdict: The Limits of LLM Consensus as a Security
+Anonymised data and analysis code reproducing the core pilot, wave-2, and PrimeVul tables and the
+census/temperature headline numbers of *"Many Minds, One Verdict: The Limits of LLM Consensus as a Security
 Gate"* (Adrian Asher).
 
 ![Graphical abstract](graphical_abstract.png)
