@@ -102,3 +102,12 @@ python extract_vote_matrices.py --raw-root /path/to/private/results -o ../data
 ## Licence
 
 Data: CC BY 4.0. Code: MIT. See `RELEASE_PLAN.md` for the public release plan.
+
+## Citation
+
+Archived release (v1): **DOI [10.5281/zenodo.21235385](https://doi.org/10.5281/zenodo.21235385)**
+
+> Adrian Asher. *Many Minds, One Verdict: The Limits of LLM Consensus as a Security Gate —
+> Reproducibility Artifact* (v1). Zenodo, 2026. https://doi.org/10.5281/zenodo.21235385
+
+Please also cite the accompanying paper (submitted to ACM *Digital Threats: Research and Practice*).
